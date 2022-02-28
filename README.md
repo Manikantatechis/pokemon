@@ -1,7 +1,8 @@
 # Pokemon - App
 ```
-Let’s make simple Pokemon App , which contains all the pokemon date 
+Let’s make simple Pokemon App , which contains all the pokemon data. 
 can search any pokemon and view them
+Also navigate through all the pages to manually select pokemon 
 ```
 
 
