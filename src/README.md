@@ -14,7 +14,7 @@ can search any pokemon and view them
 * React
 * Redux
 ```
-## User 
+## User Story
 ```
 * Users can search for any pokemon.
 * they can manually navigate to all the pokemons.
