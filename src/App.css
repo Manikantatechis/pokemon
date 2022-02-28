@@ -2,18 +2,23 @@
   box-sizing: border-box;
 }
 
+
 p {
   margin: 0;
   padding: 0;
+  font-family: fantasy;
+  text-transform: capitalize;
 }
 
 nav {
+  position: relative;
+  left: 25%;
   display: flex;
-  width: 100%;
+  width: 50%;
   height: 60px;
   align-items: center;
   justify-content: flex-end;
-  background-color: coral;
+  background-color: rgb(126, 226, 221);
 }
 
 nav a {
@@ -28,13 +33,16 @@ nav a {
 }
 
 .list-wrapper .pokemon-item {
+  position: relative;
+  left: 25%;
   margin: 10px 0;
   display: flex;
-  width: 100%;
+  width: 50%;
   justify-content: space-between;
-  border: 2px solid coral;
+  border: 2px solid rgb(126, 226, 221);
   padding: 10px;
   border-radius: 7px;
+  background-color: darkgrey;
 }
 
 .list-wrapper a {
@@ -71,5 +79,5 @@ nav a {
   margin: auto;
   list-style: none;
   justify-content: space-between;
-  padding: 0;
+  padding: 5%;
 }
